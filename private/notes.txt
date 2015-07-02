@@ -1,4 +1,8 @@
 //curl https://install.meteor.com/ | sh
+// git init
+// git clone https://github.com/sirmartymoose/meteorTempalte.git
+// git remote add origin https://github.com/sirmartymoose/xlsCompare.git
+// git push -u origin master
 
 Libraries: 
 
