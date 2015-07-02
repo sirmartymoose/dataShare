@@ -1,3 +1,5 @@
+//curl https://install.meteor.com/ | sh
+
 Libraries: 
 
 meteor add iron:router
