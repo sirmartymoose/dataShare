@@ -1,0 +1,8 @@
+Libraries: 
+
+meteor add iron:router
+meteor add mrt:bootstrap-3
+meteor add robincwillis:handsontable
+meteor add maazalik:highcharts
+meteor add accounts-ui accounts-password
+//meteor remove autopublish
