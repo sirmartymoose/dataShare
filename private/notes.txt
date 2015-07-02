@@ -9,7 +9,7 @@ git remote add origin https://github.com/sirmartymoose/meteorQuick.git
 git remote -v
 git push -u origin master
 git push origin master
-
+curl https://install.meteor.com/ | sh
 
 
 Libraries: 
