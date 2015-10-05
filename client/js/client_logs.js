@@ -45,7 +45,7 @@ if (Meteor.isClient) {
 
             $(document).ready(function(){
                   cLog("client_logs.js", "Document Ready Fired")
-                  setPageTitle("System Logs")
+
              })
     }
 }

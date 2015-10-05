@@ -11,7 +11,22 @@ if (Meteor.isClient) {
         $(document).ready(function(){
             
               cLog("client_welcome.js", "Document Ready Fired")
-              setPageTitle("Welcome!")
+
+              
+            testObj = {
+                test:  function(){
+                    alert("HI")
+                }, 
+                create: {
+                    person: function(){
+                        alert("CREATERPERSON")
+                    }
+                }
+                
+                
+            }
+              
+              
 
          })
     }
