@@ -23,6 +23,8 @@ if (Meteor.isClient) {
         
         $("#saveSheetDataButton").click(function(){
             saveSheetData()
+            renderLeftSheet(getSheetData())
+            
         })
         
         constructDataSchema = function(){
