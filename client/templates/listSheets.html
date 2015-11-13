@@ -1,0 +1,10 @@
+<template name="listSheets">
+    <div class="row">
+        {{#each mySheets}}
+            <li> <a href="/sheet/{{_id}}">{{sheetName}} </a></li> <br>
+        {{/each}}
+        
+    </div>
+
+
+</template>
